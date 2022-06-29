@@ -1,0 +1,29 @@
+<!--
+  Created by IntelliJ IDEA.
+  User: Pavel_Makei
+  Date: 05.05.2022
+  Time: 10:18
+  To change this template use File | Settings | File Templates.
+-->
+
+<ul class="navbar-nav me-auto mb-2 mb-lg-0">
+    <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
+           data-bs-toggle="dropdown" aria-expanded="false" style="color: white">
+            ${admin_menu}
+        </a>
+        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+            <li><a class="dropdown-item"
+                   href="${path}/controller?command=show_order">${show_orders}</a></li>
+            <li>
+                <hr class="dropdown-divider"/>
+            </li>
+            <li><a class="dropdown-item" href="${path}/controller?command=go_to_manage_user">${show_users}</a></li>
+            <li>
+                <hr class="dropdown-divider"/>
+            </li>
+            <li><a class="dropdown-item"
+                   href="${path}/controller?command=go_to_add_new_product">${add_new_product_label}</a></li>
+        </ul>
+    </li>
+</ul>

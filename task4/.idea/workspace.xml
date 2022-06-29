@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ade781e3-a549-45e8-a3d1-cedb7e9894c2" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2Aqm1lSSJ9lgGPhmMNdYiu2jgKc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\task_PAVEL2\task4" />
+      <recent name="C:\task_PAVEL2\task4\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.DbConnectionPoolTest">
+    <configuration name="AttributeValidatorImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lighting_shop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.makei.shop.model.validator.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="by.makei.shop.model.validator.impl" />
+      <option name="MAIN_CLASS_NAME" value="by.makei.shop.model.validator.impl.AttributeValidatorImplTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AttributeValidatorImplTest.testIsNameValidNegative" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lighting_shop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.makei.shop.model.validator.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="by.makei.shop.model.validator.impl" />
+      <option name="MAIN_CLASS_NAME" value="by.makei.shop.model.validator.impl.AttributeValidatorImplTest" />
+      <option name="METHOD_NAME" value="testIsNameValidNegative(java.lang.String)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DbConnectionPoolTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lighting_shop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.makei.shop.connectionpool.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="by.makei.shop.connectionpool" />
+      <option name="MAIN_CLASS_NAME" value="by.makei.shop.connectionpool.DbConnectionPoolTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductDaoImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lighting_shop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.makei.shop.model.dao.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="by.makei.shop.model.dao.impl" />
+      <option name="MAIN_CLASS_NAME" value="by.makei.shop.model.dao.impl.ProductDaoImplTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.DbConnectionPoolTest" />
+        <item itemvalue="JUnit.ProductDaoImplTest" />
+        <item itemvalue="JUnit.AttributeValidatorImplTest" />
+        <item itemvalue="JUnit.AttributeValidatorImplTest.testIsNameValidNegative" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ade781e3-a549-45e8-a3d1-cedb7e9894c2" name="Changes" comment="" />
+      <created>1655745283854</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1655745283854</updated>
+      <workItem from="1655745286943" duration="2932000" />
+      <workItem from="1656333727987" duration="445000" />
+      <workItem from="1656493152455" duration="4046000" />
+      <workItem from="1656500358435" duration="816000" />
+      <workItem from="1656501210638" duration="3881000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
